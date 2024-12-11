@@ -102,6 +102,13 @@ Screen Shot:<br>
 ![image](https://github.com/user-attachments/assets/c5543eb2-e734-4685-bf45-5bf53e7d08d5)<br>
 
 
+Contributors <br>
+
+Thank you to the following people for contributing to this project:<br>
+
+- Nilambari Shivmurti Kothavale (kothavalenilu@gmail.com)<br>
+- Rohan Somnath Bhoye (rohanbhoye1234@gmail.com)<br>
+- Naveen T (naveenfaxy1098@gmail.com)<br>
 
 
 
