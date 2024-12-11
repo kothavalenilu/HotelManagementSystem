@@ -96,5 +96,18 @@ DELETE	/api/bookings/{id}	Delete a booking
 Screen Shot:
 1. Login Page
   
+![image](https://github.com/user-attachments/assets/a3163a79-510b-444f-bbb2-047ce952e3cf)
+
+2. Admin Dashbord
+![image](https://github.com/user-attachments/assets/0fa8dec1-ef53-475f-be19-eea22b4d5393)
+
+3. Customer Profile
+![image](https://github.com/user-attachments/assets/446f39ee-b3d0-4511-8889-5710fd616890)
+
+4. Room Booking Section
+![image](https://github.com/user-attachments/assets/c5543eb2-e734-4685-bf45-5bf53e7d08d5)
+
+
+
 
 
